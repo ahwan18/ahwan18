@@ -23,6 +23,12 @@ Software Engineer Enthusiast focused on iOS development, web development, and fu
 | [Pomoboo macOS](https://github.com/Tarempa-Challange5/Pomoboo_MacOSV2) | Desktop Pomodoro app with menu bar integration and focus reminders | SwiftUI, SwiftData, macOS SDK | Validated with 10+ users |
 | [Portfolio Website](https://github.com/ahwan18/ahmad-portfolio) | Personal portfolio optimized for SEO, accessibility, and project storytelling | Next.js, TypeScript, Tailwind CSS | Live at ahmad-portfolios.vercel.app |
 
+## Additional Builds
+
+- [InternTrack](https://github.com/ahwan18/InternTrack) - Kotlin Android app for tracking internship applications, statuses, deadlines, and progress analytics.
+- [Safa E-Commerce](https://github.com/ahwan18/safa_ecommerce) - Full-stack custom printing e-commerce platform with storefront, checkout, admin CMS, and Supabase.
+- [Toko Mainan Jalan Dongi](https://github.com/ahwan18/e-Commerce-Project) - React and Supabase toy-store e-commerce app with cart, checkout, and admin dashboard.
+
 ## Tech Stack
 
 **Languages:** Swift, TypeScript, JavaScript, SQL  
